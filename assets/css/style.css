@@ -9,17 +9,18 @@
 
 
 /* yaha se hum extra add kiya hai */
-.header .logo img
+/* .header .logo img
 {
-	width:300px;
-	height:150px;	
-}
+	
+		
+} */
 .logo img{
-	top: -30px;
-	left: -30px;
+	top: -75px;
+	width:250px;
+	left: -10px;
 	/* width:1000px; */
 	position:absolute;
-	height: 10px;
+	
 }
 /* yaha tak */
 
