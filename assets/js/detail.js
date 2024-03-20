@@ -60,7 +60,7 @@ fetchDataFromServer(`https://api.themoviedb.org/3/movie/${movieId}?api_key=${api
         videos: { results: videos },
     } = movie;
 
-    document.title = `${title} - Tvflix`;
+    document.title = `${title} - MovieIndia`;
     const movieDetail = document.createElement('div');
     movieDetail.className = 'movie-detail';
     movieDetail.innerHTML = `
